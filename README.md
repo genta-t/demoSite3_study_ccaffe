@@ -20,4 +20,4 @@
 
 ### 【完成動画】
 
-[demosite_cafe](https://youtu.be/sCIu_w36CoU)
+[demoSite_cafe](https://youtu.be/sCIu_w36CoU)
